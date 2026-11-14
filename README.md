@@ -25,4 +25,6 @@ configurações -> atalhos -> atalhos personalizados
 
 comando:
 
+```
 bash -c 'python3 /caminho/para/o/seu/main.py'
+```
